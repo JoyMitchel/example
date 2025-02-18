@@ -1,0 +1,10 @@
+*{
+    color: blue;
+}
+h1{color: black;}
+h3{color: blueviolet;}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
